@@ -48,5 +48,10 @@
 ## 7일차
  - 파이선 데이터 분석
    - numpy 기본
-   - matplotlib
+   - matplotlib 기본
+   - pandas Join 기본
+
+## 8일차
+ - 파이선 데이터 분석
    - selenium
+   - beautifulSoup
