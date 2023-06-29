@@ -68,3 +68,5 @@
 ## 10일차
  - 파이썬 데이터분석 실습
    - 제주도 핫플레이스
+   - 인스타 크롤링
+ <img src='https://raw.githubusercontent.com/ldj8196/bigdata-python-2023/main/images/인스타크롤링.gif'/>
