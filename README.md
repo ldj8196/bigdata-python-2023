@@ -70,3 +70,9 @@
    - 제주도 핫플레이스
    - 인스타 크롤링
  <img src='https://raw.githubusercontent.com/ldj8196/bigdata-python-2023/main/images/인스타크롤링.gif'/>
+
+## 11일차
+ - 파이썬 데이터분석 실습
+   - 제주도 핫플레이스 크롤링 마무리
+   - 워드클라우드 실습
+<img src='https://raw.githubusercontent.com/ldj8196/bigdata-python-2023/main/images/제주맛집_워드클라우드.png'/>
